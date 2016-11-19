@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BooksTestApp</string>
+    <string name="search_title">Search</string>
+    <string name="enter_correct_data">Please enter the title or author\'s name</string>
+    <string name="error_in_response">Error in response</string>
+    <string name="incorrect_response">Incorrect response. Please check the name or author of your book</string>
+</resources>
